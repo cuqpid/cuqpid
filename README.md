@@ -1,5 +1,5 @@
 
-![8cd838ae8c3e835ae07585b024e6d797](https://github.com/cuqpid/cuqpid/assets/138013489/20017e82-9289-4a11-88f4-bdef1499f5eb)
+![4a40222d47daed991e35b8061f910a88](https://github.com/cuqpid/cuqpid/assets/138013489/806fed63-84eb-44d2-af20-4adfa91d1ad4)
 
 
 *pfp is mine!
