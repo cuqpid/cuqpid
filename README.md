@@ -1,5 +1,5 @@
-RENTRY!
-![4dfd57564fdb6804967f9586c7494d74](https://github.com/cuqpid/cuqpid/assets/138013489/9e4ea5cb-f9e2-4fbb-bba7-77a8f9e3b8fa)
+![4130c43580b7a726c08d222a5224534e](https://github.com/cuqpid/cuqpid/assets/138013489/f51e96f5-4b57-474f-9913-5ee69abe0ecc)
+
 
 <!--
 **cuqpid/cuqpid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
