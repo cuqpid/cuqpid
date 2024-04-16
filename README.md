@@ -1,12 +1,9 @@
 
-![4a40222d47daed991e35b8061f910a88](https://github.com/cuqpid/cuqpid/assets/138013489/806fed63-84eb-44d2-af20-4adfa91d1ad4)
 
+![image](https://github.com/cuqpid/cuqpid/assets/138013489/d5cff22f-97e5-420e-8985-cdf1c6373fc7)
 
-*pfp is mine!
-
-
-<!--
-**cuqpid/cuqpid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+tory because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
